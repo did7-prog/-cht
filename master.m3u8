@@ -33,6 +33,8 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1,RTД
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
+#EXTINF:-1,Союзный
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1,Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist.m3u8
 
@@ -41,18 +43,30 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist.m3u8
 #EXTINF:-1,Загородная жизнь
 http://timeshift.arpinet.am:8091/40/index.m3u8
 #EXTINF:-1,Смотрим 100% Факты
-https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1,НТВ Стиль HD
 https://cdn.ntv.ru/th_style/index.m3u8
 #EXTINF:-1,Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/index.m3u8
+#EXTINF:-1,Неизвестная Планета
+http://stitch.teletarget.ru/vintera/neplaneta/index.m3u8
+#EXTINF:-1,Terra Incognita
+https://stitch.teletarget.ru/vintera/terra/index.m3u8
+#EXTINF:-1,Перпетуум Мобиле
+https://stitch.teletarget.ru/vintera/perpetuummobile/index.m3u8
+#EXTINF:-1,Аква ТВ
+http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
+#EXTINF:-1,Полёт ТВ
+https://stitch.teletarget.ru/vintera/flighttv/index.m3u8
 #EXTINF:-1,Смотрим 100% Праздник
-https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 
 #EXTINF:-1,Смотрим 100% Классика
-https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1,Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1,Классика кино
+http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 
 #EXTINF:-1,Первый канал (+2)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_URAL_CHEL/variant.m3u8?version=2
@@ -97,9 +111,13 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOM_CHEL/variant.m3u8?version=2
 
 #EXTINF:-1,Смотрим 100% Любовь
-https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
+#EXTINF:-1,Киносезон
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1,Star Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+#EXTINF:-1,Экстра ТВ
+https://stitch.teletarget.ru/vintera/tvextra/index.m3u8
 
 #EXTINF:-1,НТВ (+2)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_CHEL/variant.m3u8?version=2
@@ -109,7 +127,7 @@ https://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1,НТВ Право
 https://cdn.ntv.ru/th_pravo/index.m3u8
 #EXTINF:-1,Смотрим 100% Мужское
-https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1,НТВ Хит HD
 https://cdn.ntv.ru/th_hit/index.m3u8
 #EXTINF:-1,НТВ Сериал HD
@@ -161,6 +179,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?version=2
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_KARUSEL_CHEL/variant.m3u8?version=2
 #EXTINF:-1,Солнце (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8?version=2
+#EXTINF:-1,Смотрим 100% Детское
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+
 #EXTINF:-1,Спас (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8?version=2
 #EXTINF:-1,Матч ТВ (+2)
@@ -215,14 +236,26 @@ http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 https://live-4.otcnet.ru/504/135/index.m3u8
 #EXTINF:-1,Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1,RTД
-https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1,Красная линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1,ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1,РЖД ТВ
 https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1,Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1,ПРО Бизнес
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
+#EXTINF:-1,ТВ Спорт
+http://live-3.otcnet.ru/sportivny/playlist.m3u8
+
+
+
+
+#EXTINF:-1,Киноменю
+http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
+?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDI2IDQ6MjI6NDcgUE0maGFzaF92YWx1ZT10RFFYeldnUFBsekd5bXlGN1ZGWUtnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+
 
 
 
