@@ -275,16 +275,17 @@ https://icecast-vgtrk.cdnvideo.ru/unost_mp3_128kbps
 
 
 #EXTINF:-1 start-id=273,История
-https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-273-0-str26631272-5-3119732613-1783900144-e128-j7wm-KLGEHU2S1flUnYjIFIw9xkKSlK9hz7h2Ts5K3M/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.0 (Linux; Android 10) ExoPlayerLib/2.15.0
 #EXTVLCOPT:http-referrer=https://start.ru/
-#EXTVLCOPT:http-origin=https://start.ru
-
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-273-0-str26631272-5-3119732613-1783903762-e128-ecKU30J2Ehzk-nVNKmA58SWdxjzp1obGmGlQy9Ja1o4/index.m3u8|User-Agent=ExoPlayerDemo/2.15.0 (Linux; Android 10) ExoPlayerLib/2.15.0&Referer=https://start.ru/&Origin=https://start.ru
 #EXTINF:-1 start-id=5771,START World
-https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5771-0-str26631272-5-3119732613-1783900146-e128-JWCTVer0G4CzUtpl-hoqYZyRBgTk0eMFj49rYd38-Jw/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.0 (Linux; Android 10) ExoPlayerLib/2.15.0
 #EXTVLCOPT:http-referrer=https://start.ru/
-#EXTVLCOPT:http-origin=https://start.ru
+https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5771-0-str26631272-5-3119732613-1783903765-e128-Ik88GNaD05j217AHQzNmBs5418WWQYmGUs_J_sPnqS0/index.m3u8|User-Agent=ExoPlayerDemo/2.15.0 (Linux; Android 10) ExoPlayerLib/2.15.0&Referer=https://start.ru/&Origin=https://start.ru
+#EXTINF:-1 start-id=4304,СТАРТ Live HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.0 (Linux; Android 10) ExoPlayerLib/2.15.0
+#EXTVLCOPT:http-referrer=https://start.ru/
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-4304-0-str26631272-5-3119732613-1783903768-e128-qoGpWwlmf0CzKOj8-ro7yrW-2ZG7DPwW5ut9eL0yZFo/index.m3u8|User-Agent=ExoPlayerDemo/2.15.0 (Linux; Android 10) ExoPlayerLib/2.15.0&Referer=https://start.ru/&Origin=https://start.ru
 
 #EXTINF:-1 start-id=4304,СТАРТ Live HD
 https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-4304-0-str26631272-5-3119732613-1783900150-e128-KL1UDWbDAg7SbP9CcmL_5UZxJADwrkkfHlIVRRLqQLs/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
