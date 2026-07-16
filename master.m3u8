@@ -275,6 +275,8 @@ https://icecast-vgtrk.cdnvideo.ru/unost_mp3_128kbps
 
 
 
+#EXTINF:-1 start-id=4304,СТАРТ Live HD
+https://api.start.ru/stream/multiplex/395f2627-5a14-3638-85a7-6bd472bc026b/292?apikey=a20b12b279f744f2b3c7b5c5400c4eb5&auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NjZlZTNmZGI0MWNmNzE4ZDhiYzEyNTAiLCJwaWQiOiJjNjA3N2JiMi0yNjU3LTQ2NTgtYmVlOS0wMzE2NGY5NWUxNzEiLCJkaWQiOiJhMmUwMzI2MS0zYmJkLTQ1MGYtYjRiNi1hMzYyYTA4M2M1MTIiLCJhbm9ueW1vdXMiOmZhbHNlLCJmb3Jfa2lkcyI6ZmFsc2UsImFjY291bnRfdHlwZSI6InRyaWFsIiwiYWNsX2V4cGlyZSI6MTc4NTk5OTI0MSwiYWNsX3R5cGUiOiJwcmVtaXVtIiwidXBkYXRlZF9hdCI6MTc4Mzg5OTI3OSwidiI6NH0.rXweJ27MB9hArn8FjvZ1a1rHcchWxD6bqunrrg3CjhE
 
 #EXTINF:-1 start-id=273,История
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
