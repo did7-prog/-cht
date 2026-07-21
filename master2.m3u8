@@ -31,26 +31,42 @@ https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1,Союзный
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
+#EXTINF:-1,RTVi
+http://hubtv.ru/index.php?stream=aHR0cHM6Ly9zNzAzNzguY2RuLm5nZW5peC5uZXQvcnR2aS9pbmRleC5tM3U4
 #EXTINF:-1,Euronews RU
 https://stream8.cinerama.uz/1024/playlist.m3u8
+#EXTINF:-1,DW RU
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1,Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist.m3u8
+#EXTINF:-1,Музыка 1 Int
+http://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1,Музыка 2 Int
+http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1,Музыка Кино Int
+http://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 start-id=8361,Усадьба HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-8361-0-str26631272-5-3119732613-1784588749-e128-DS-n5VSbZjGxiT5yrSHGgmVpqnzq7PUR_718FOzTFZk/index.m3u8
+https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-8361-0-str26631272-5-3119732613-1784598858-e128-o-jjNsi90hE3QQk6m44fjUMHciPzVYCDuQviY4Fyi8E/index.m3u8
 #EXTINF:-1,Усадьба
-https://stream3.cinerama.uz/1427/playlist.m3u8
+https://stream8.cinerama.uz/1427/playlist.m3u8
 #EXTINF:-1,Загородный
-https://stream3.cinerama.uz/1044/playlist.m3u8
+https://stream8.cinerama.uz/1044/playlist.m3u8
+#EXTINF:-1,Загородный Int
+http://hubtv.ru/index.php?stream=aHR0cHM6Ly9ibC5ydXR1YmUucnUvbGl2ZXN0cmVhbS80MDY5NzNjNzJlOWQwNDQ5ZmVlZjA1ZWY3ODExYWQwMS9pbmRleC5tM3U4P3M9ZkdGODByWDlRb2hJSml6bWpkNHBOdyZlPTIwNzQyMDkyMTkmc2NoZW1lPWh0dHBz
 #EXTINF:-1,Загородная жизнь
 http://timeshift.arpinet.am:8091/40/index.m3u8
+#EXTINF:-1,Бобёр
+http://hubtv.ru/index.php?stream=aHR0cHM6Ly9mbHVzc29uaWMubWtwbmV0LnJ1L3R2LTMxOWNhZGIzZmZmNWZiM2UvdmlkZW8ubTN1OA==
+#EXTINF:-1,Ключ
+http://hubtv.ru/index.php?stream=aHR0cDovL2hsczEyNy5mcmVlb3R0LnRvcDo4MDgwL0tsdWNoL21vbm8ubTN1OA==
 #EXTINF:-1,Смотрим 100% Факты
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 start-id=219,НТВ Стиль HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-219-0-str26631272-5-3119732613-1784588752-e128-3VfU8Xab3wNEDRSDDRSveqg_sE3qggGmSVeUfJSwU1E/index.m3u8
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-219-0-str26631272-5-3119732613-1784598862-e128-60cSPf6PqBNTsuclmU58zufcQSvIxaYorYfPfKEGhEs/index.m3u8
 #EXTINF:-1,НТВ Стиль
 https://cdn.ntv.ru/th_style/index.m3u8
 #EXTINF:-1,Неизвестная Россия
@@ -60,75 +76,87 @@ https://stream8.cinerama.uz/1222/playlist.m3u8
 #EXTINF:-1 start-id=186,RTG HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-186-0-str26631272-5-3119732613-1784588754-e128-xNHjkHvYdtcv_gSC8YF48DGvCRA0pHtroCuHfgqspNY/index.m3u8
+https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-186-0-str26631272-5-3119732613-1784598865-e128-N0AnZ6Pm2JnFWtsX01yhdrTpTg-3JeI-efEMxQCjxgw/index.m3u8
 #EXTINF:-1 start-id=106,RTG
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-106-0-str26631272-5-3119732613-1784588757-e128-JXEFA4f7wldfFwloH6vvagr_q8PQj3YdHKNUekIutpc/index.m3u8
+https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-106-0-str26631272-5-3119732613-1784598868-e128-tWPxkH6B-UHCQgCYOMW5vnBjHqF33rlOAK-gVIILsVw/index.m3u8
 #EXTINF:-1 start-id=4306,Наука
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-4306-0-str26631272-5-3119732613-1784588759-e128-0URXDbzFYoV0DbCYGy3g7bcRoQEtGDJPk0X5UdgnoeE/index.m3u8
+https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-4306-0-str26631272-5-3119732613-1784598870-e128-HvWv8ii82_O2sEyvckc1OpiwhPLeEISSfEv3We6OBbY/index.m3u8
 #EXTINF:-1 start-id=988,Curiosity Stream
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-988-0-str26631272-5-3119732613-1784588763-e128-k3nzvswZBOxzMaT0o3J4YuYWm4Bmb2MHVO1QMPL5lZU/index.m3u8
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-988-0-str26631272-5-3119732613-1784598873-e128-Oz4aIGHlGgH5lZs9L4GzDqMqhRUlq0qWHDNZPbNrJd4/index.m3u8
 #EXTINF:-1 start-id=374,Моя Планета
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-374-0-str26631272-5-3119732613-1784588765-e128-Xuizk9nqltvcFUMkj4TNPKnQ4zsB7oR8HJuCntt2ONg/index.m3u8
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-374-0-str26631272-5-3119732613-1784598876-e128-qNnT-OLwC_qO38nWJXVnlXxxYSi7Id0A5hjmd9bDioo/index.m3u8
 #EXTINF:-1 start-id=390,Живая Планета
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-390-0-str26631272-5-3119732613-1784588767-e128-SrTg-rESlHuswZHLJu_z3Ve9Jg2g3ve0M9h_UcyOYkw/index.m3u8
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-390-0-str26631272-5-3119732613-1784598878-e128--jQxTW_R3OK7Zo6FhhG0pYfci2aneP4kfarO75PlGdI/index.m3u8
 #EXTINF:-1 start-id=273,История
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-273-0-str26631272-5-3119732613-1784588770-e128-mDYetQrrtFO8nIMMJjHrkaRXxHP_LOcaUh2ECHoYms0/index.m3u8
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-273-0-str26631272-5-3119732613-1784598881-e128--f2rzEuVJhUHly-H5_sojbm5GJ4g3RgcDLVb-liRYKU/index.m3u8
+#EXTINF:-1 start-id=8733,Русская История
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
+#EXTVLCOPT:http-referrer=https://start.ru/
+https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-8733-0-str26631272-5-3119732613-1784598885-e128-4FjHAF2wNAwkE4dXF0sh1OcchmqfW-6aIMFbMV2x5YQ/index.m3u8
 #EXTINF:-1,365 Дней
-https://stream3.cinerama.uz/1242/playlist.m3u8
+https://stream8.cinerama.uz/1242/playlist.m3u8
 #EXTINF:-1,Смотрим 100% Праздник
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 #EXTINF:-1 start-id=117,Сарафан
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-117-0-str26631272-5-3119732613-1784588774-e128-fRTbm52C8s0p2fRxVFBBanHaxZkatyi1GnsX-pU6FfU/index.m3u8
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-117-0-str26631272-5-3119732613-1784598887-e128-WrSSCS_-XU1DQinsmLP9UFpokeZWXf8kVcyOKYOwh7c/index.m3u8
 #EXTINF:-1,Смотрим 100% Классика
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1,Советская Киноклассика
+https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=Sovetskay_kinoclassica_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODExNzk4MCIsImV4cCI6MTc4NTIwMjM2OCwiaHdpZCI6IjdiYWU1OGI4NDQwOWI0NmY5ODBkZjIyNjc2OWJkOWQyYmQ0MTQ0YzU0NzAxMzExYWNkNTJmMGFkZmM1YmUyZTYiLCJsYXN0X3JlcV9kYXRlIjoxNzg0NTk3NTY4LCJzZXNzaW9uX2lkIjoiYzI0MTAwM2Q1YjhmMWU0MTQ1YmJhNjQ0ZWVjNDk0OTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g0GxY6Mj4yLP32W5cEHYnXwpcQUvgk29zkUQkl57ZbE
 #EXTINF:-1 start-id=4985,Мосфильм. Золотая Коллекция
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-4985-0-str26631272-5-3119732613-1784588776-e128-jEC5ByvpOO-YrYfPKfv-iXAX1E6Y_wjOaHbd4N9F00o/index.m3u8
+https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-4985-0-str26631272-5-3119732613-1784598890-e128-KGHawS4sj5wxKTlAm-Zxpai2gfkDJypkoEiWH5GBi4c/index.m3u8
 #EXTINF:-1 start-id=206,Ностальгия
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-206-0-str26631272-5-3119732613-1784588778-e128-9nyIZZsuW3mHt-7C84zY7lGU6YPe--3wuf5PoejoEdk/index.m3u8
+https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-206-0-str26631272-5-3119732613-1784598894-e128-JU9V3fMfX-oSAlwf1Oi5e2TlMLFhb5PYHHd4g--RfQs/index.m3u8
 #EXTINF:-1,Ретро
-https://stream3.cinerama.uz/1047/playlist.m3u8
+https://stream8.cinerama.uz/1047/playlist.m3u8
+#EXTINF:-1,Время
+http://hubtv.ru/index.php?stream=aHR0cDovLzQ2LjMyLjE3Ni41MC9WcmVteWEvaW5kZXgubTN1OA==
+#EXTINF:-1,Телекафе
+https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 #EXTINF:-1 start-id=5732,День Победы HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5732-0-str26631272-5-3119732613-1784588781-e128-b7O3FPve9ivPUasF6HxQHn7uMjgZ-0YmeycuTHTn2ms/index.m3u8
+https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5732-0-str26631272-5-3119732613-1784598897-e128-xCoxA3dA2AsFEEgSlIhfzGoPVo27ihUZFPkmRa6giZ8/index.m3u8
+#EXTINF:-1,Победа
+http://hubtv.ru/index.php?stream=aHR0cDovLzE5My4yNS44LjU5OjgwMDAvdG9jaGth
 #EXTINF:-1 start-id=8666,Патриот
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-8666-0-str26631272-5-3119732613-1784588783-e128-tRTB5I9919CISRY6jEjZqd0P394cu788-CWltszfK8w/index.m3u8
+https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-8666-0-str26631272-5-3119732613-1784598899-e128-VTKEHqOdA2ybejNuvLatZxiO589e2nb188FPVtTS8j8/index.m3u8
 #EXTINF:-1 start-id=5552,Любимое кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5552-0-str26631272-5-3119732613-1784588787-e128-wGKoCxGV63Zy2bu58oGPYVIhFFmxQVn0-yRyuuoOioc/index.m3u8
+https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5552-0-str26631272-5-3119732613-1784598902-e128-XLX1YK44OAgWi2A4xmpK1J1wZiHtJuEwFjvecr_Bmr8/index.m3u8
 #EXTINF:-1 start-id=5568,Мир сериала
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5568-0-str26631272-5-3119732613-1784588789-e128-28ZhvLiSkeaLDTEX5NgBJXJ19nJDNern8V46OdWkp8E/index.m3u8
+https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5568-0-str26631272-5-3119732613-1784598904-e128-LCmXBdpTZGPpEz18lOUc59HKJOItyT5E36r6rzHpvNw/index.m3u8
 #EXTINF:-1,Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1,Классика кино
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 #EXTINF:-1,Родное кино
-https://stream3.cinerama.uz/1052/playlist.m3u8
+https://stream8.cinerama.uz/1052/playlist.m3u8
 #EXTINF:-1,Наше новое кино
-https://stream3.cinerama.uz/1051/playlist.m3u8
+https://stream8.cinerama.uz/1051/playlist.m3u8
 #EXTINF:-1,Первый канал (+2)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_URAL_CHEL/variant.m3u8?version=2
 #EXTINF:-1,Первый канал HD
@@ -174,69 +202,75 @@ https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
 #EXTINF:-1 start-id=326,Русский роман
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-326-0-str26631272-5-3119732613-1784588791-e128-TY-tX6QOoESVbwGH81DVAm6ViGTOK0j4qamqGVixdZ4/index.m3u8
+https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-326-0-str26631272-5-3119732613-1784598907-e128-tphNiphuBipD1dRlPm-k7HABKct9ZHKxo2rM3IrgYBQ/index.m3u8
 #EXTINF:-1 start-id=8257,VESNA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-8257-0-str26631272-5-3119732613-1784588793-e128-SKsp8gyj6AcW5nDziQ4l0pNrSyefHvXGld5fGPm1Bmo/index.m3u8
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-8257-0-str26631272-5-3119732613-1784598909-e128-ajYggsbTeM5hrvstut_WAo_7_1aWT7xeSg4AvDf3HoU/index.m3u8
+#EXTINF:-1,Про Любовь
+http://hubtv.ru/index.php?stream=aHR0cDovL2hsczEyNy5mcmVlb3R0LnRvcDo4MDgwL1Byb0x1Ym92SEQvbW9uby5tM3U4
 #EXTINF:-1 start-id=2898,Star Cinema
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-2898-0-str26631272-5-3119732613-1784588795-e128-IM_iVX76k_TJJMcNtw_wOhRztzRUh4RRu2zl6Jq-YYU/index.m3u8
+https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-2898-0-str26631272-5-3119732613-1784598913-e128-gPjJLeyyXk6-zXhpE7Iz7rIb4lBeixCRAZQM6HFS0Kc/index.m3u8
 #EXTINF:-1 start-id=2899,Star Family
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-2899-0-str26631272-5-3119732613-1784588798-e128-YWPGIpmQGhZY3sCL4rlqViO-bYMc_5vaOIlAWrU4jx4/index.m3u8
+https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-2899-0-str26631272-5-3119732613-1784598916-e128-5XHZ4cE8kP4FCgTgo2UUCyIQazr4KvK2EUogqnE8nvQ/index.m3u8
 #EXTINF:-1 start-id=1592,Bolt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-1592-0-str26631272-5-3119732613-1784588799-e128-Y2d97P4LNCWU8zLSs4CvWVxS704xTISjsW8byCj3FOU/index.m3u8
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-1592-0-str26631272-5-3119732613-1784598919-e128-Dt20vW5AXdECw5nUfJ5QmB_-Kcj7tlMpwjSWCxku6qY/index.m3u8
 #EXTINF:-1 start-id=204,Феникс кино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-204-0-str26631272-5-3119732613-1784588803-e128-kPvba3lFmUqYbrB34MkPFZU6gXXP8ma2AyG1g_MXNA4/index.m3u8
+https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-204-0-str26631272-5-3119732613-1784598922-e128-kgEOj_LftNoGLp1BNUzsosq2jfaQOmtobKApYZ2t9xk/index.m3u8
 #EXTINF:-1 start-id=7049,Женский журнал
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-7049-0-str26631272-5-3119732613-1784588805-e128-mCRaQK8AnfBZVAkLEsyfgPnG_WBQsLcsprAGiM7qGVw/index.m3u8
+https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-7049-0-str26631272-5-3119732613-1784598924-e128-Vux0p5AdCecQ8cHi_rlR9n_SI-_2h7iMp2jbhFNyThs/index.m3u8
 #EXTINF:-1 start-id=5770,START Air
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5770-0-str26631272-5-3119732613-1784588808-e128-Oglp8IiHCAZ0fDrV6Njdc-QR8oBRmW3isaJgXq8Sis8/index.m3u8
+https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5770-0-str26631272-5-3119732613-1784598927-e128-qOztVBy4WGmmo2HYVORon5cBRjbjeHzDpWAE8vE47d4/index.m3u8
 #EXTINF:-1 start-id=5771,START World
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5771-0-str26631272-5-3119732613-1784588809-e128-BdJXxyxIqNbhiBxHN5waqrho4xkRLfrjPqshx7-8fhg/index.m3u8
+https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5771-0-str26631272-5-3119732613-1784598929-e128-2xBB829QjC2qyOlJEBHnd4ru9klGgSQzYbChtMlLkoA/index.m3u8
 #EXTINF:-1 start-id=3454,Русский Иллюзион
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-3454-0-str26631272-5-3119732613-1784588812-e128-J_6F4hpLL_cjLSEcsqGagBgrf9tnmDUdVCVPHpLZC2Y/index.m3u8
+https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-3454-0-str26631272-5-3119732613-1784598933-e128-SuLvcg70zGqKhEOEKQae-C-kSw2lcJsRWPxlkY4n-qA/index.m3u8
 #EXTINF:-1 start-id=4775,Наш Кинопоказ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-4775-0-str26631272-5-3119732613-1784588815-e128-ZQwhcBNZwxjI2oUmmZj1vUPLjJLRP1b64RpZmZ5TPio/index.m3u8
-#EXTINF:-1 start-id=4775,TV1000 Русское
-https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-4775-0-str26631272-5-3119732613-1784588815-e128-ZQwhcBNZwxjI2oUmmZj1vUPLjJLRP1b64RpZmZ5TPio/index.m3u8
-#EXTINF:-1 start-id=4775,Дом Кино
-https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-4775-0-str26631272-5-3119732613-1784588815-e128-ZQwhcBNZwxjI2oUmmZj1vUPLjJLRP1b64RpZmZ5TPio/index.m3u8
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-4775-0-str26631272-5-3119732613-1784598936-e128-JhqQ8tHk5fj5hzZu9ZzGy78lhnd7UPzNxgCc4Xg5RO0/index.m3u8
+#EXTINF:-1,TV1000 Русское
+https://stream8.cinerama.uz/1059/playlist.m3u8
+#EXTINF:-1,Дом Кино Премиум
+http://hubtv.ru/index.php?stream=aHR0cDovLzQ2LjMyLjE3Ni41MC9Eb21LaW5vUHJlbWl1bUhEL2luZGV4Lm0zdTg=
+#EXTINF:-1,Дом Кино
+https://s70378.cdn.ngenix.net/dom_kino/2/index.m3u8
+#EXTINF:-1,Дом Кино
+https://stream8.cinerama.uz/1054/playlist.m3u8
 #EXTINF:-1 start-id=495,Сапфир
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-495-0-str26631272-5-3119732613-1784588823-e128-bRpvVfVAbRUTiXlkuslS2JrUHVCdT2w8tb6MO2_Dljg/index.m3u8
+https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-495-0-str26631272-5-3119732613-1784598938-e128-TR_Mo8gRcldREaxXLDKpo7rZVHbhLHhdgrultRc3qnc/index.m3u8
 #EXTINF:-1 start-id=5899,Кинеко
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5899-0-str26631272-5-3119732613-1784588826-e128-o2EbTWDHVZMDavzC7yYYvERHXMM_D21hU7d9YEYNXGM/index.m3u8
+https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5899-0-str26631272-5-3119732613-1784598941-e128-X7ZJUvE7djTt4vGqrJua6f-sYwIg9sw292D3Iy3ogWs/index.m3u8
 #EXTINF:-1,Дорама
-https://stream3.cinerama.uz/1273/playlist.m3u8
+https://stream8.cinerama.uz/1273/playlist.m3u8
 #EXTINF:-1 start-id=932,Bollywood HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-932-0-str26631272-5-3119732613-1784588828-e128-wYRjqMKbF5bPe0cbqsC_hV51r-lvt6zpMlw4fnWE5Wo/index.m3u8
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-932-0-str26631272-5-3119732613-1784598944-e128-toIlbUhxUcJSs1lPBiIPqAmKbnZ0xNCPusRezWn91Ak/index.m3u8
 #EXTINF:-1 start-id=245,Индия
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-245-0-str26631272-5-3119732613-1784588830-e128-_zLqAp354zHABM05VO5dfAurXNyBBUOVrswRfv8_f7E/index.m3u8
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-245-0-str26631272-5-3119732613-1784598947-e128-doNfBvosEFFwqihTfcYfbrw0ze13Pr1-iQYQq9yHDZ8/index.m3u8
 #EXTINF:-1,Киносезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1,Star Cinema
@@ -254,29 +288,37 @@ https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 start-id=3143,НТВ Хит HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-3143-0-str26631272-5-3119732613-1784588833-e128-J6qx0R9AKp5__lYNir_XyZZRQ9TFKS7eldi91wXg2Co/index.m3u8
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-3143-0-str26631272-5-3119732613-1784598950-e128-fm05VC15AMrMRrRX5d4zxgXVsNsQTfFjmZojystavSw/index.m3u8
 #EXTINF:-1,НТВ Хит
 https://cdn.ntv.ru/th_hit/index.m3u8
 #EXTINF:-1 start-id=2622,НТВ Сериал HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-2622-0-str26631272-5-3119732613-1784588837-e128-GNI3iqOp21WfnuKl7PSPxHbXBtli1-FJJs1OojvtAhU/index.m3u8
+https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-2622-0-str26631272-5-3119732613-1784598954-e128-L-IXHRUCRWmM0yHpPGG5uDfYo0pOosMjAnRG_Nac3fw/index.m3u8
 #EXTINF:-1,НТВ Сериал
 https://cdn.ntv.ru/th_serial/index.m3u8
 #EXTINF:-1 start-id=281,Русский бестселлер
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-281-0-str26631272-5-3119732613-1784588839-e128-Nxmo2t0etDGOVAZJT6dbrASJDESstbaN6bY1QjOvNXI/index.m3u8
+https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-281-0-str26631272-5-3119732613-1784598955-e128-u8cmCjjmN_3Ks2rVmbV81SVKHLZeWg5CTc4OqUm9U_k/index.m3u8
 #EXTINF:-1 start-id=282,Русский детектив
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-282-0-str26631272-5-3119732613-1784588842-e128-gLwlbrNv2Y4vNdSc5Y0eqEhR-vgRJvQ0DoaJ40AYtXg/index.m3u8
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-282-0-str26631272-5-3119732613-1784598959-e128--FzIqsgIWCmpWdmxm8panTWYOr9ldSeaidXxSg9AuCw/index.m3u8
 #EXTINF:-1,ТВ3 (+2)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TV3_URAL_CHEL/variant.m3u8?version=2
+#EXTINF:-1 start-id=519,ТВ3 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
+#EXTVLCOPT:http-referrer=https://start.ru/
+https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-519-0-str26631272-5-3119732613-1784598962-e128-4KeaV90xT34dV9DjKlFAAhpwr6iqt0TOGAXeKZVrH3o/index.m3u8
 #EXTINF:-1,Пятый канал (+2)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_5TV_URAL_CHEL/variant.m3u8?version=2
 #EXTINF:-1,ТВЦ (+2)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_URAL_CHEL/variant.m3u8?version=2
+#EXTINF:-1 start-id=5740,ТВЦ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
+#EXTVLCOPT:http-referrer=https://start.ru/
+https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5740-0-str26631272-5-3119732613-1784598966-e128-6DfEJjt4iB4oHcpWOG3lxxA3QKExS2vF-OfdVeIo7Rs/index.m3u8
 #EXTINF:-1,ОТР (+2)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_OTR_CHEL/variant.m3u8?version=2
 #EXTINF:-1,Рен ТВ (+2)
@@ -297,8 +339,16 @@ http://cdn-01.bonus-tv.ru/u/playlist.m3u8
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_URAL/variant.m3u8?version=2
 #EXTINF:-1,Суббота (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
+#EXTINF:-1 start-id=505,Суббота HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
+#EXTVLCOPT:http-referrer=https://start.ru/
+https://stream17.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-505-0-str26631272-5-3119732613-1784598969-e128-OnfXVu20EW0Gl_O8YD3xyKcqnDbYn6rhG-BnXVBwcgM/index.m3u8
 #EXTINF:-1,ТНТ (+2)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_URAL_CHEL/variant.m3u8?version=2
+#EXTINF:-1 start-id=518,ТНТ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
+#EXTVLCOPT:http-referrer=https://start.ru/
+https://rec101.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-518-0-str26631272-5-3119732613-1784598973-e128-I77rVcDUSNTFkQlL7YdNb0jVdx6uFirNIsXxyQE_G1Q/index.m3u8
 #EXTINF:-1,ТНТ4 (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
 #EXTINF:-1,Звезда (+2)
@@ -308,7 +358,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 start-id=5769,Звезда Плюс HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
 #EXTVLCOPT:http-referrer=https://start.ru/
-https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5769-0-str26631272-5-3119732613-1784588845-e128-cCX7AeuBvMuD4yKok02ZxwFORXHdM_D967885IXz-dA/index.m3u8
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-5769-0-str26631272-5-3119732613-1784598975-e128-rFIBMn61l3IhVU2kwBOUIje3S25do3zxom2c8BAlGw4/index.m3u8
 #EXTINF:-1,Мир (+2)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_MIR_CHEL/variant.m3u8?version=2
 #EXTINF:-1,Мир HD
@@ -317,6 +367,10 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MUZTV_RTRS_CHEL/variant.m3u8?version=2
 #EXTINF:-1,2x2 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?version=2
+#EXTINF:-1 start-id=8514,2x2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; Mi TV Box S Build/PI)
+#EXTVLCOPT:http-referrer=https://start.ru/
+https://rec102.24h.tv/hlsjwt/72db04ff449ea94a328bca339b81e7f89addaa80-8514-0-str26631272-5-3119732613-1784598978-e128-G55HmT6pCQo5kgn9SjilH830fPIWThOGX126fMNK7wM/index.m3u8
 #EXTINF:-1,Карусель (+2)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_KARUSEL_CHEL/variant.m3u8?version=2
 #EXTINF:-1,Солнце (+2)
